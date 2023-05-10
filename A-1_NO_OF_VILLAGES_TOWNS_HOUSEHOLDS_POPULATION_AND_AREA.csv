@@ -1,7 +1,4 @@
-﻿State  Code,District Code,Sub District Code,India/ State/ Union Territory/ District/ Sub-district,Name,"Total/
-Rural/
-Urban",Inhabited,Uninhabited,Number of towns,Number of households,Persons,Males,Females,"Area
- (In sq. km)",Population per sq. km.
+﻿State Code,District Code,Sub District Code,India/ State/ Union Territory/ District/ Sub-district,Name,"Total/Rural/Urban",Inhabited,Uninhabited,Number of towns,Number of households,Persons,Males,Females,"Area(In sq. km)",Population per sq. km.
 1,2,3,4,5,6,7,8,9,10,11,12,13,13.00,14
 00,000,00000,INDIA,INDIA @&,Total,"597,608","43,324","7,933","249,501,663","1,210,854,977","623,270,258","587,584,719",3287469.00,382
 00,000,00000,INDIA,INDIA $,Rural,"597,608","43,324",0,"168,612,897","833,748,852","427,781,058","405,967,794",3101473.97,279
@@ -20034,31 +20031,3 @@ Urban",Inhabited,Uninhabited,Number of towns,Number of households,Persons,Males,
 35,640,05924,SUB-DISTRICT,Little Andaman,Total,16,3,0,"5,093","18,823","9,964","8,859",780.15,24
 35,640,05924,SUB-DISTRICT,Little Andaman,Rural,16,3,0,"5,093","18,823","9,964","8,859",780.15,24
 35,640,05924,SUB-DISTRICT,Little Andaman,Urban,0,0,0,0,0,0,0,0.00,0
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,@,The population figures exclude population of the area under unlawful occupation of Pakistan and China where Census could not be taken.,,,,,,,,,,,,
-,&,"Area figures include the area under unlawful occupation of Pakistan and China. The area includes 78,114 Sq.km under illegal occupation of Pakistan, 5180 Sq.km illegally handed over by",,,,,,,,,,,,
-,,"Pakistan to China and 37,555 Sq.km under illegal occupation of China.",,,,,,,,,,,,
-,$,Rural and urban area of Arunachal Pradesh excluded due to non availability.,,,,,,,,,,,,
-,###,Revised area figures in two districts of Maharashtra are resultant due to jurisdicational change after census 2001 as given below- ,,,,,,,,,,,,
-,,District,total,Rural,Urban,,,,,,,,,
-,,Jalna ,7687.39,7581.23,106.16,,,,,,,,,
-,,Aurangabad,10137.61,9828.26,309.35,,,,,,,,,
-,,,,,,,,,,,,,,
-,#, The town Gohpur falls under Gohpur and Helem sub-districts ( District Sonitpur in Assam). Density of urban of Helem sub district could not be shown separately.,,,,,,,,,,,,
-,^, Area (23477.34 sq.km) not under any sub-district in Kachchh district ( Rann of Kachchh) in state Gujarat.,,,,,,,,,,,,
-,*,"The boundary of  ""Merangmen circle"" (district Mokokchung in Nagaland) could not be drawn due to technical difficulty. So, the area could not be derived.",,,,,,,,,,,,
-,**,"The boundaries of Aquqhnaqua Circle and Niuland Circle (district Dimapur  in Nagaland) could not be drawn due to technical difficulty. So, the area of Niuland Circle is included in Aquqhnaqua Circle. ",,,,,,,,,,,,
-,##,"one urban unit namely Srikalikapuram (CT) of Thiruvallur district (Tamil Nadu) with area 3.5 sq.km was included which was noticed after publication of PCA, therefore there is difference of 3.5 sq.km in this district and state level.",,,,,,,,,,,,
-,^^,Polutation per sq. km is negligible in Sub- districtsMipi and Etalin (District Dibang Valley in Arunachal Pradesh)  ,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,Note:,,,,,,,,,,,,,
-,1,The total area of India represents 'Geographical Area' supplied by Survey of India.,,,,,,,,,,,,
-,2,The State/District area figures are provided by Survey of India (except newly created and affected districts of J.& K.) and the Sub-District area figures are derived through digitalization method in ORGI.,,,,,,,,,,,,
-,3,Density has been worked out on comparable data.,,,,,,,,,,,,
-,4,Density for rural portion of Jammu & Kashmir has been worked out after excluding the entire area of the illegal occupied portion of Pakistan and China as its rural-urban breakup is not available.,,,,,,,,,,,,
-,,The same has also been done while working out the density of India.,,,,,,,,,,,,
-,(ii),Rural and Urban population of Arunachal Pradesh has also been excluded as Rural and urban area figures are not available.,,,,,,,,,,,,
-,5,"Area figures in 6 districts (Koriya, Sarguja, Raighar, Bilaspur, Durg and Bastar) of Chattisgarh revised by state authorities after publication of PCA 2011 India.",,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,NA -,Not available,,,,,,,,,,,,
